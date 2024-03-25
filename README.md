@@ -2,7 +2,7 @@
 # Aim:
 To simulate and synthesis encoder using Xilinx ISE.
 
-# Apparatus Required:
+# software Required:
 Xilinx 14.7 Spartan6 FPGA
 # Procedure:
 STEP:1 Start the Xilinx navigator, Select and Name the New project. STEP:2 Select the device family, device, package and speed.
