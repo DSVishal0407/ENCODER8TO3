@@ -28,7 +28,8 @@ or(c,d[1],d[3],d[5],d[7])
 endmodule
 ```
 # Output:
-![image](https://github.com/DSVishal0407/ENCODER8TO3/assets/163637297/658ddbd0-9643-4775-83d4-51eb1dbcec76)
+![image](https://github.com/Thulasiraman04/ENCODER8TO3/assets/161105890/fb4736cb-e0ca-42eb-b200-e856f4f64a9d)
+
 
 # Result:
 Hence Encoder Verified.
