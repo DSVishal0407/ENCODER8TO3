@@ -1,5 +1,5 @@
 # ENCODER8TO3
-# Aim: 
+# Aim:
 To simulate and synthesis encoder using Xilinx ISE.
 
 # Apparatus Required:
@@ -28,8 +28,8 @@ or(c,d[1],d[3],d[5],d[7])
 endmodule
 ```
 # Output:
-![image](https://github.com/Thulasiraman04/ENCODER8TO3/assets/161105890/fb4736cb-e0ca-42eb-b200-e856f4f64a9d)
+![image](https://github.com/Thulasiraman04/ENCODER8TO3/assets/161105890/8ba63235-961d-4a97-9ca0-6a21fa301412)
 
 
 # Result:
-Hence Encoder Verified! .
+Hence Encoder Verified.
