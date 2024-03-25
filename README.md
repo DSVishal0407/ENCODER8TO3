@@ -32,4 +32,4 @@ endmodule
 
 
 # Result:
-Hence Encoder Verified.
+Hence Encoder Verified! .
