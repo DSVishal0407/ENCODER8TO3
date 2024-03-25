@@ -1,5 +1,5 @@
 # ENCODER8TO3
-# Aim:
+# Aim: 
 To simulate and synthesis encoder using Xilinx ISE.
 
 # Apparatus Required:
