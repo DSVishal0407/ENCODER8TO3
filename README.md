@@ -1,6 +1,6 @@
 # ENCODER8TO3
 # Aim:
-To simulate and synthesis encoder using Xilinx ISE.
+To simulate and synthesis encoder using Xilinx IS.
 
 # software Required:
 Xilinx 14.7 Spartan6 FPGA
